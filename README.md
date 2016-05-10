@@ -1,6 +1,10 @@
 # Thunk-Examples
 Examples showing usage of HSAKMT API on AMD GPUs
 
+### Requirements
+* AMD GPU available system (APU or dGPU)
+* ROCm-1.0 installed
+
 #### Example 01
 A simple example to open and close HSAKMT
 
